@@ -1,1 +1,2 @@
-
+Project 75 Summary
+This project applies Stack (LIFO) and Queue (FIFO) concepts to real-life Rwandan examples. It includes practical cases like MoMo steps, UR exercises, buses at Nyabugogo, and clients at Airtel. Challenge tasks show how stacks reverse sequences and why queues manage voting lines fairly. Reflections explain why stacks are best for reversing and why queues ensure fairness in elections.
